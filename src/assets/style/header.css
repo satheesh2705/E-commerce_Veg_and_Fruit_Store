@@ -1,0 +1,68 @@
+
+.ShoppingCartBox{
+    width: 15%;
+    display: flex;
+    align-items: center;    
+    justify-content: space-between;
+    /* background-color: aqua; */
+}
+
+.Catagories{
+    height: 80px;
+    width: 100%;
+    background-image: url(../images/Breadcrumbs.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+  #subscribeBox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  #subscribeBox input{
+    height: 41.5px;
+    width: 320px;
+    border-radius: 50px;
+    text-align: start;
+    border-color:rgb(23, 223, 23);
+    outline: none;
+    border: 0.2px rgba(0, 0, 0, 0.329) solid;
+    padding-left: 15px;
+    font-size: 17px;
+  }
+
+  #subscribeBox button{
+    height: 44px;
+    width: 100px;
+    border-radius: 50px;
+    margin-left: -55px;
+    border:none;
+    color: white;
+    font-size: 17px;
+    font-weight: 800;
+    background-color: #23c423;
+
+  }
+
+
+#returnToShop{
+  text-decoration: none;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
